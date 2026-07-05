@@ -1,10 +1,10 @@
 # José Neto
 
-Desenvolvedor Full Stack
-Estudando UX/UI e desenvolvimento Front-end
+Full Stack Developer
+Currently studying UX/UI Design and Front-end Development
 
 <div>
-  <a hrefom/in/jose-hipolito-neto" target="_blank">
+  <a href="https://www.linkedin.com/in/jose-hipolito-neto" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
       width="32"
@@ -23,7 +23,7 @@ Estudando UX/UI e desenvolvimento Front-end
   </a>
 </div>
 
-##
+## Developer Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32" alt="HTML">
@@ -35,14 +35,22 @@ Estudando UX/UI e desenvolvimento Front-end
   <img src="https://api.iconify.design/devicon/oracle.svg" width="32" height="32" alt="Oracle">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" height="32" alt="Git">
   <img src="https://cdn.simpleicons.org/github/white" width="32" height="32" alt="GitHub">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="32" height="32" alt="Figma">
 </div>
 
-##
+## Designer Skills
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="32" height="32" alt="Figma">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="32" height="32" alt="Adobe Photoshop">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width="32" height="32" alt="Adobe Illustrator">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="32" height="32" alt="Canva">
+</div>
+
+## Contributions
 
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/Jose-h-neto/Jose-h-neto/output/snake.svg"
-    alt="Snake animation"
+    alt="GitHub contribution snake animation"
   >
 </div>
