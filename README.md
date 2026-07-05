@@ -39,3 +39,10 @@ Estudando UX/UI e desenvolvimento Front-end
 </div>
 
 ##
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Jose-h-neto/Jose-h-neto/output/snake.svg"
+    alt="Snake animation"
+  >
+</div>
