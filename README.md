@@ -1,26 +1,35 @@
-# José Neto
+<table width="100%">
+  <tr>
+    <td width="35%" valign="middle">
+      <h2>José Neto</h2>
+      <strong>Full Stack Developer</strong>
+      <br>
+      <small>UX/UI and Front-end Development</small>
+    </td>
 
-Full Stack Developer
-Currently studying UX/UI Design and Front-end Development
 
-<div>
-  <a href="https://www.linkedin.com/in/jose-hipolito-neto" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-      width="32"
-      height="32"
-      alt="LinkedIn"
-    >
-  </a>
+<td width="65%" valign="middle">
+  <h1>I build digital experiences where code and design work together.</h1>
+</td>
 
-  <a href="https://www.instagram.com/SEU-USUARIO/" target="_blank">
-    <img
-      src="https://cdn.simpleicons.org/instagram/E4405F"
-      width="32"
-      height="32"
-      alt="Instagram"
-    >
-  </a>
+
+  </tr>
+
+  <tr>
+    <td colspan="2" valign="top">
+      I develop functional applications and clean interfaces, combining
+      software development, visual consistency and user-centered design.
+    </td>
+  </tr>
+</table>
+
+## Contributions
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Jose-h-neto/Jose-h-neto/output/snake.svg"
+    alt="GitHub contribution snake animation"
+  >
 </div>
 
 ## Developer Skills
@@ -46,11 +55,24 @@ Currently studying UX/UI Design and Front-end Development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="32" height="32" alt="Canva">
 </div>
 
-## Contributions
+## Contact
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Jose-h-neto/Jose-h-neto/output/snake.svg"
-    alt="GitHub contribution snake animation"
-  >
+<div align="left">
+  <a href="https://www.linkedin.com/in/jose-hipolito-neto" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+      width="32"
+      height="32"
+      alt="LinkedIn"
+    >
+  </a>
+
+  <a href="https://www.instagram.com/SEU-USUARIO/" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/instagram/E4405F"
+      width="32"
+      height="32"
+      alt="Instagram"
+    >
+  </a>
 </div>
